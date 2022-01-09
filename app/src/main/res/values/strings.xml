@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPlantFriend</string>
+    <string-array name="names">
+        <item>Pick-a-Plant</item>
+        <item>Cucumber</item>
+        <item>Green Peas</item>
+        <item>Tomatoes</item>
+        <item>Basil</item>
+        <item>Kale</item>
+    </string-array>
+</resources>
